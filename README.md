@@ -13,12 +13,17 @@ GUI Development (JavaFX/Swing)
 🏗️ Project Structure
 src/
  ├── csc2b.client/
+ 
  │    ├── Client.java
+ 
  │    └── MusicClientPane.java
+ 
  │
  ├── csc2b.server/
  │    ├── Server.java
+ 
  │    └── MusicHandler.java
+ 
  │
 data/
  └── server/
